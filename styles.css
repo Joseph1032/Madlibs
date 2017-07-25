@@ -1,0 +1,45 @@
+body {
+	background: radial-gradient(circle, #8e9eab,#eef2f3);
+	color:#222224;
+}
+img {
+	margin-left: 17%;
+}
+h4 {
+	margin-left: 24%;
+	margin-top: -2%;
+	font-family: 'Ubuntu', sans-serif;
+}
+p {
+	width:50%;
+	margin-left: 25%;
+	margin-top: 5%;
+}
+#submit{
+	margin-left: 30%;
+	height:40px;
+	width:80px;
+}
+#reset {
+	height:40px;
+	width:80px;
+}
+input {
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+#words {
+	margin-top: 2%;
+	font-size: 20px;
+	font-family: 'Ubuntu', sans-serif;
+	width:50%;
+}
+#myFunction {
+	visibility: hidden;
+	margin-left: 45%;
+}
+footer {
+	text-align: center;
+	margin-top: 5%;
+	font-family: 'Ubuntu', sans-serif;
+}
